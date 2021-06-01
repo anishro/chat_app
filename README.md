@@ -1,3 +1,9 @@
+To test app go to  :: https://discordedchat.netlify.app/
+user name - user
+password - pass
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
