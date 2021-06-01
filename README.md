@@ -1,5 +1,5 @@
 To test app go to  :: https://discordedchat.netlify.app/ ----
-user name - user   ------
+username - user   ------
 password - pass
 
 
